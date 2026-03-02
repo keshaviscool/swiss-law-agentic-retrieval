@@ -224,3 +224,5 @@ output/
 models/
 *.gguf
 *.bin
+
+faiss_index/
