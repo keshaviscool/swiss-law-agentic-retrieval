@@ -143,6 +143,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+rag_env/
+.DS_Store
+
+.idea/
 
 # Spyder project settings
 .spyderproject
@@ -226,3 +230,6 @@ models/
 *.bin
 
 faiss_index/
+
+# contains only the laws de
+faiss_index_new/ 
