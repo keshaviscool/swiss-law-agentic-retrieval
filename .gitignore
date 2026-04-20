@@ -233,3 +233,9 @@ faiss_index/
 
 # contains only the laws de
 faiss_index_new/ 
+scripts/llama_adapter
+scripts/qwen_adapter
+
+
+notebooks/adapter
+notebooks/checkpoints

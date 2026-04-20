@@ -1,0 +1,41 @@
+query_id,predicted_citations
+test_001,Art. 3 Abs. 2 KG;Art. 27 Abs. 6 VBP;Art. 79 Abs. 5 FINIV;Art. 9 Abs. 1 PatG;Art. 21 Abs. 2 DSV
+test_002,Art. 19 Abs. 1 ZertES;Art. 47 Abs. 3 PBG;Art. 53 Abs. 1 MStG;Art. 128a OR;Art. 59 Abs. 2 ZDG;Art. 60 Abs. 1 OR;Art. 73 Abs. 1 StGB;Art. 91 Abs. 5 MWSTG;Art. 455 Abs. 2 ZGB;Art. 24 Abs. 3 BStG;Art. 54 Abs. 2 OR;Art. 97 Abs. 3 StGB;Art. 55 Abs. 3 MStG;Art. 10 Abs. 2 PartG;Art. 36 Abs. 3 EleG
+test_003,Art. 108 OR;Art. 52d Abs. 2 VAG;Art. 5 Abs. 2 221.213.15;Art. 115 OR;Art. 535 Abs. 2 ZGB;Art. 264 Abs. 1 OR;Art. 86 Abs. 1 SchKG;Art. 20 Abs. 1 OR
+test_004,Art. 206 Abs. 3 SchKG;Art. 138d Abs. 3 KAG;Art. 1166 Abs. 2 OR;Art. 205 Abs. 1 SchKG;Art. 62a Abs. 3 PatV;Art. 412 Abs. 2 StPO;Art. 73 Abs. 2 SchKG;Art. 210 Abs. 1 SchKG;Art. 33 MSchG;Art. 213 Abs. 2 SchKG;Art. 8 KAKV-FINMA;Art. 19 Abs. 3 InsV-FINMA;Art. 8 VKV-FINMA;Art. 253 Abs. 2 SchKG;Art. 13 BIV-FINMA;Art. 35 Abs. 29 946.231.176.72;Art. 245 SchKG;Art. 18 InsV-FINMA;Art. 254 SchKG;Art. 3 Abs. 2 642.121;Art. 27 Abs. 5 InsV-FINMA
+test_005,Art. 75 OR;Art. 336 Abs. 1 ZPO;Art. 7 Abs. 2 414.110.2;Art. 16 Abs. 2 OR;Art. 469 Abs. 3 ZGB
+test_006,Art. 28 Abs. 4 BEG;Art. 27 Abs. 4 BEG;Art. 131 Abs. 2 OR;Art. 127 OR;Art. 20 Abs. 3 AVIG;Art. 19 Abs. 1 ZertES;Art. 9 PrHG;Art. 210 Abs. 1 OR;Art. 66 Abs. 2 GSchG;Art. 91 Abs. 5 MWSTG
+test_007,Art. 71 Abs. 2 StGB;Art. 51b Abs. 2 MStG;Art. 11 Abs. 2 KGTG;Art. 25 Abs. 1 ATSG;Art. 35a Abs. 1 BVG;Art. 119 Abs. 1 OR;Art. 48 Abs. 2 VStG;Art. 86 Abs. 2 ZG;Art. 66 OR;Art. 63 Abs. 2 OR;Art. 30 Abs. 2 SuG;Art. 15 Abs. 2 ÜLG;Art. 60c Abs. 4 BPV;Art. 3 Abs. 1 ATSV;Art. 98 Abs. 4 TSV
+test_008,Art. 133 Abs. 2 ZGB;Art. 296 Abs. 2 ZGB;Art. 298b Abs. 2 ZGB;Art. 296 Abs. 1 ZGB;Art. 276a Abs. 2 ZGB;Art. 11 Abs. 2 VAwG;Art. 306 Abs. 1 ZGB;Art. 306 Abs. 3 ZGB;Art. 11b Abs. 1 ZStV;Art. 274 Abs. 1 ZGB
+test_009,Art. 90 Abs. 2 IPRG
+test_010,Art. 140 Abs. 1 StGB;Art. 132 Abs. 1 MStG;Art. 40c Abs. 2 EBG;Art. 150 Abs. 1 MStG;Art. 180 Abs. 1 StGB
+test_011,Art. 13 Abs. 1 747.111;Art. 413 Abs. 2 ZGB;Art. 413 Abs. 1 ZGB;Art. 155 IPRG
+test_012,Art. 17 Abs. 2 FHG;Art. 878 Abs. 2 OR;Art. 29 Abs. 4 BEG;Art. 8 Abs. 3 IQG;Art. 120 Abs. 3 OR;Art. 70 Abs. 2 ZDG;Art. 591 Abs. 2 OR;Art. 63 Abs. 2 OR;Art. 116 Abs. 1 OR;Art. 124 Abs. 1 OR;Art. 101a Abs. 2 KV;Art. 1022 Abs. 2 OR;Art. 12 Abs. 4 VStV;Art. 8 Abs. 4 StV;Art. 8 Abs. 2 IQG;Art. 1023 Abs. 2 OR;Art. 87 Abs. 1 OR;Art. 169 Abs. 2 OR;Art. 507 Abs. 6 OR;Art. 21 Abs. 2 VORA;Art. 1076 Abs. 2 OR;Art. 11 Abs. 3 VStrR;Art. 63 Abs. 1 OR;Art. 21 Abs. 1 BStG;Art. 105 Abs. 2 EntG;Art. 41 Abs. 5 V-ASG;Art. 48 Abs. 2 PBG;Art. 38 Abs. 2 FIFG;Art. 24 Abs. 1 ATSG;Art. 26 Abs. 3 StADG;Art. 131 Abs. 2 OR;Art. 15 Abs. 2 SVAG;Art. 60 Abs. 2 StHG;Art. 35 Abs. 2 MindStV;Art. 189 Abs. 2 DBG;Art. 492 Abs. 3 OR;Art. 20 Abs. 5 172.222.1;Art. 21 Abs. 4 BStG;Art. 167 StGB;Art. 105 Abs. 3 MWSTG;Art. 134 Abs. 2 OR;Art. 119 Abs. 1 OR;Art. 69 Abs. 1 OR
+test_013,Art. 39 Abs. 1 172.220.113.40;Art. 2 221.215.328.4
+test_014,Art. 45 Abs. 1 UVG;Art. 17 Abs. 1 221.215.329.3;Art. 11 747.301
+test_015,Art. 532 Abs. 2 ZGB;Art. 62 Abs. 3 IPRG
+test_016,Art. 35 Abs. 2 AHVG;Art. 50b Abs. 3 AHVV;Art. 9 Abs. 1 DBG;Art. 3 Abs. 3 StHG;Art. 6 Abs. 1 ÜLV
+test_017,Art. 647c ZGB;Art. 51 Abs. 2 BöB;Art. 42 Abs. 1 MStP
+test_018,Art. 325 Abs. 1 ZPO;Art. 42 Abs. 2 BGG;Art. 106 Abs. 2 BGG;Art. 93 Abs. 1 BGG;Art. 26 Abs. 3 PatGG;Art. 318 Abs. 1 ZPO
+test_019,Art. 27 Abs. 1 IPRG;Art. 61 IPRG;Art. 17 IPRG
+test_020,Art. 108 OR;Art. 72 OR;Art. 82 OR;Art. 1 Abs. 2 GebV-HReg;Art. 2 Abs. 2 AllgGebV;Art. 16 Abs. 1 OR
+test_021,Art. 75 Abs. 2 ZV
+test_022,Art. 176 Abs. 3 ZGB;Art. 267 Abs. 2 ZGB;Art. 296 Abs. 2 ZGB;Art. 296 Abs. 1 ZGB;Art. 84 Abs. 1 IPRG;Art. 69 Abs. 2 IPRG;Art. 58 Abs. 1 IPRG;Art. 133 Abs. 2 ZGB;Art. 63 Abs. 2 IPRG;Art. 59 IPRG
+test_023,Art. 21 Abs. 3 BZP
+test_024,Art. 4 Abs. 4 ELV;Art. 1 Abs. 2 StPO;Art. 234 Abs. 1 ZPO;Art. 356 Abs. 6 StPO;Art. 321 Abs. 2 StPO;Art. 1 Abs. 2 IPRG;Art. 17 Abs. 2 LPG
+test_025,Art. 9 Abs. 1 IPRG;Art. 63 Abs. 2 IPRG;Art. 17 IPRG;Art. 241 Abs. 4 ZGB;Art. 88 Abs. 1 131.221;Art. 56 Abs. 2 RTVG;Art. 107 Abs. 1 ZPO;Art. 291 Abs. 3 ZPO;Art. 108 Abs. 2 IPRG;Art. 64 Abs. 1 IPRG;Art. 58 Abs. 2 IPRG
+test_026,Art. 125 Abs. 2 ZGB;Art. 299 ZGB;Art. 241 Abs. 3 ZGB;Art. 276 Abs. 3 ZGB;Art. 216 Abs. 3 ZGB;Art. 83 Abs. 2 IPRG;Art. 298d Abs. 3 ZGB;Art. 306 Abs. 1 ZGB;Art. 165 Abs. 3 ZGB;Art. 37a Abs. 4 BankG;Art. 108 Abs. 3 LFV;Art. 286 Abs. 2 ZGB;Art. 125 Abs. 1 ZGB;Art. 304 Abs. 2 ZPO;Art. 27 Abs. 1 PartG;Art. 39 UVV;Art. 293 Abs. 1 ZGB;Art. 285 Abs. 1 ZGB;Art. 292 Abs. 2 ZPO;Art. 2 Abs. 1 ZG;Art. 20 Abs. 2 BG-HAÜ
+test_027,Art. 83 Abs. 1 BZP;Art. 262 ZPO
+test_028,Art. 58 Abs. 1 OR
+test_029,Art. 106 Abs. 2 StPO;Art. 360 Abs. 1 ZGB;Art. 19c Abs. 1 ZGB;Art. 67 Abs. 2 ZPO;Art. 370 Abs. 1 ZGB
+test_030,Art. 50 Abs. 2 StHG;Art. 93 Abs. 3 BGG;Art. 412 Abs. 2 StPO;Art. 93 Abs. 1 BGG;Art. 315 Abs. 1 ZPO;Art. 759 Abs. 3 OR;Art. 362 Abs. 5 StPO
+test_031,Art. 6 Abs. 2 EOV;Art. 9 Abs. 1 DBG;Art. 26 Abs. 4 IVV;Art. 7 Abs. 2 ELV;Art. 21ter Abs. 2 IVV;Art. 33 Abs. 2 DBG;Art. 9 Abs. 2 DBG;Art. 3 Abs. 3 StHG;Art. 26 Abs. 2 IVV;Art. 285a Abs. 3 ZGB;Art. 3 Abs. 5 VKP;Art. 34 Abs. 4 AHVG;Art. 26 Abs. 1 IVV;Art. 29quinquies Abs. 3 AHVG;Art. 110 Abs. 2 StGB
+test_032,Art. 1 Abs. 3 DSV;Art. 11a 362.0;Art. 19 Abs. 2 ISV;Art. 12 Abs. 2 SIaG;Art. 13 Abs. 2 ISG;Art. 221 Abs. 1 StPO;Art. 56 Abs. 1 MStP;Art. 62 NDG;Art. 67 Abs. 1 MStP;Art. 75a Abs. 3 StGB;Art. 32 Abs. 4 NDV;Art. 17 Abs. 1 MStG;Art. 20 Abs. 2 ISV;Art. 241 Abs. 1 StPO;Art. 8 Abs. 2 BG-RVUS;Art. 83 Abs. 2 ArGV 1;Art. 62 Abs. 1 HMG;Art. 6 Abs. 3 DSG;Art. 141 Abs. 2 StPO;Art. 184 Abs. 3 MIG;Art. 60 Abs. 2 StPO;Art. 59 Abs. 1 HFG;Art. 80dnovies Abs. 1 IRSG;Art. 42 Abs. 2 362.0;Art. 42 Abs. 3 362.0;Art. 20 Abs. 3 DSG;Art. 251 Abs. 4 StPO;Art. 15b Abs. 2 EBG;Art. 36 Abs. 1 BZP;Art. 59 Abs. 2 810.21
+test_033,Art. 60c Abs. 4 BPV;Art. 17 EntG;Art. 9 Abs. 2 UVG;Art. 8 Abs. 1 UVG;Art. 3 Abs. 1 ATSG
+test_034,Art. 49 Abs. 2 LBG;Art. 124 Abs. 1 GBV
+test_035,Art. 27 Abs. 1 IPRG;Art. 17 IPRG;Art. 27 Abs. 2 IPRG;Art. 519 Abs. 1 ZGB;Art. 8 Abs. 1 ZPO;Art. 8b IPRG;Art. 96 Abs. 1 IPRG;Art. 62 Abs. 2 IPRG;Art. 14 Abs. 2 IPRG;Art. 3 Abs. 2 747.224.022;Art. 90 Abs. 2 IPRG;Art. 108 Abs. 2 IPRG;Art. 540 Abs. 1 ZGB
+test_036,Art. 296 Abs. 1 StPO;Art. 15 Abs. 2 VBNIB;Art. 251 Abs. 4 StPO
+test_037,Art. 10 Abs. 1 VKos;Art. 2 MSchG;Art. 13 Abs. 2 MSchG;Art. 19 Abs. 2 MSchV;Art. 929 Abs. 1 OR;Art. 899 Abs. 2 OR;Art. 718a Abs. 2 OR;Art. 27e Abs. 1 MSchG;Art. 1 Abs. 1 MSchG;Art. 13 Abs. 1 MSchG;Art. 16 Abs. 2 WSchG;Art. 10 Abs. 1 MSchV;Art. 59 Abs. 1 EMKV;Art. 40 Abs. 1 MSchV;Art. 113 Abs. 2 HRegV
+test_038,Art. 150 Abs. 1 MStG;Art. 181 StGB
+test_039,Art. 69 Abs. 3 VwVG;Art. 82 Abs. 1 SchKG
+test_040,Art. 14 Abs. 2 IPRG;Art. 17 IPRG;Art. 328 Abs. 2 ZGB;Art. 58 Abs. 1 IPRG
